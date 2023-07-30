@@ -1,0 +1,10 @@
+Package: com.cann66dev.darkcenter
+Name: DarkCenter
+Version: 0.0.1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dark style Control Center for iOS 10
+Maintainer: cann66
+Author: cann66
+Section: Tweaks
+Tag: cann66::true
