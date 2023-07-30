@@ -6,7 +6,7 @@
 # Supported iOS Version
   10-10.3.3
 
-# Note
+# Author Note
   I know it supports old versions because old devices are still in use
   so I made a tweak considering them.
 
