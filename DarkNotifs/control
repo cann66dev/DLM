@@ -1,0 +1,10 @@
+Package: com.cann66dev.darknotifs
+Name: DarkNotifs
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Dark styled notifications
+Maintainer: cann66
+Author: cann66
+Section: Tweaks
+Tag: cann66::true
